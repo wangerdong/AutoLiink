@@ -1,2 +1,6 @@
-# AutoLiink
-api of HTTP/HTTPS or MTQQ
+protocol buffer
+https
+MQTT
+GZIP data compress/uncompress
+HMAC-SHA1,DES
+
